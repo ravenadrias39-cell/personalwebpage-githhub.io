@@ -1,2 +1,2 @@
-# personalwebpage-githhub.io
+# personalwebpage-github.io
 personal Webapge Description
